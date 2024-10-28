@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Square">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAMADAAAA=</HashCode>
+      <FileName>Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Triangle">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAsAHAAAg=</HashCode>
+      <FileName>Triangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figure">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAgAAAAAEAAAAAA=</HashCode>
+      <FileName>Figure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Circle">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAMADAAAA=</HashCode>
+      <FileName>Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
